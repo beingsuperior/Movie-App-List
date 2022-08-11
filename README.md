@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/bassamhashmi/movies-app">
+  <a href="https://github.com/beingsuperior/Movie-App-List">
     <img src="images/logo-react.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     Built with React
     <br />
-    <a href="https://github.com/bassamhashmi/movies-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/beingsuperior/Movie-App-List"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://bh-movies.netlify.app/">View Demo</a>
+    <a href="https://bs-movies.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/bassamhashmi/movies-app/issues">Report Bug</a>
+    <a href="https://github.com/beingsuperior/Movie-App-List/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bassamhashmi/movies-app/issues">Request Feature</a>
+    <a href="https://github.com/beingsuperior/Movie-App-List/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,7 +56,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://bh-movies.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://bs-movies.netlify.app/)
 
 This is an app that displays list of movies based on selected genre.
 
@@ -101,7 +101,7 @@ _Installing and setting up your app._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bassamhashmi/movies-app.git
+   git clone https://github.com/beingsuperior/Movie-App-List.git
    ```
 2. Install NPM React-Bootstrap packages
    ```sh
@@ -126,7 +126,6 @@ Shahzaib Nazim - [@beingsuperior] - beingsuperior99@gmail.com
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/bassamhashmi/
 [product-screenshot]: images/screenshots/1.png
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
