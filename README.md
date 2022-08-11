@@ -118,7 +118,7 @@ _Installing and setting up your app._
 
 ## Contact
 
-Bassam Hashmi - [@iamBassamHashmi](https://twitter.com/iamBassamHashmi) - bassamhashmi7@gmail.com
+Shahzaib Nazim - [@beingsuperior] - beingsuperior99@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
